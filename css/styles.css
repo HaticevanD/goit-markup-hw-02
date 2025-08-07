@@ -1,0 +1,139 @@
+body {
+  background-color: #ffffff;
+  color: #434445;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  text-decoration: none;
+}
+address ul li a {
+  color: #2e2f42;
+  gap: 40px;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  font-style: normal;
+}
+address ul li a:hover {
+  color: #404bbf;
+}
+div {
+  display: flex;
+}
+.helper.components li a {
+  color: #2e2f42;
+  gap: 40px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+}
+.helper.components li a:hover,
+.helper.components li a:active {
+  color: #404bbf;
+  text-decoration: none;
+}
+ul {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+}
+ul li {
+  list-style-type: none;
+}
+
+.logo {
+  color: #2e2f42;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.logo span,
+.logo span:hover,
+.logo span:active,
+.logo span:visited {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+h1 {
+  background-color: #2e2f42;
+  color: #ffffff;
+  line-height: 60px;
+  text-align: center;
+}
+
+h2 {
+  color: #2e2f42;
+  line-height: 40px;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 2%;
+}
+
+h3 {
+  color: #2e2f42;
+  line-height: 24px;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+.team li {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+}
+button:hover {
+  background-color: #404bbf;
+}
+
+footer {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+
+footer p {
+  color: #f4f4fd;
+}
+.logo2 {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
+.logo2 span,
+.logo3 span:hover,
+.logo2 span:active,
+.logo2 span:visited {
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-align: center;
+  font-weight: 700;
+  text-decoration: none;
+}
