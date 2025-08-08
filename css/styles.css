@@ -3,15 +3,15 @@ body {
   color: #434445;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 address ul li a {
   color: #2e2f42;
   gap: 40px;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   text-decoration: none;
   font-style: normal;
 }
@@ -25,7 +25,7 @@ div {
   color: #2e2f42;
   gap: 40px;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
   text-decoration: none;
@@ -48,8 +48,8 @@ ul li {
   color: #2e2f42;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.1667;
+  letter-spacing: 0.03em;
   text-align: center;
   font-weight: 700;
   text-decoration: none;
@@ -61,8 +61,8 @@ ul li {
   color: #4d5ae5;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.1667;
+  letter-spacing: 0.03em;
   text-align: center;
   font-weight: 700;
   text-decoration: none;
@@ -70,23 +70,23 @@ ul li {
 h1 {
   background-color: #2e2f42;
   color: #ffffff;
-  line-height: 60px;
+  line-height: 3.75;
   text-align: center;
 }
 
 h2 {
   color: #2e2f42;
-  line-height: 40px;
+  line-height: 1.1111;
   font-size: 36px;
   text-align: center;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 h3 {
   color: #2e2f42;
-  line-height: 24px;
+  line-height: 1.2;
   font-size: 20px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .team li {
   text-align: center;
@@ -105,8 +105,8 @@ button:hover {
 
 footer {
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   background-color: #2e2f42;
   color: #ffffff;
 }
@@ -118,8 +118,8 @@ footer p {
   color: #ffffff;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.1667;
+  letter-spacing: 0.03em;
   text-align: center;
   font-weight: 700;
   text-decoration: none;
@@ -131,8 +131,8 @@ footer p {
   color: #4d5ae5;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.1667;
+  letter-spacing: 0.03em;
   text-align: center;
   font-weight: 700;
   text-decoration: none;
